@@ -1,12 +1,12 @@
 ### Gibbons
 #### Extrator de curtidores do instagram
-##### Entradas:
+##### Entrada
 * Seu login (instagram)
 * Sua senha (instagram)
 * Perfil alvo (usuário do instagram que se deseja extrair os curtidores)
 * Número de 'últimos posts' (1 retornará apenas os curtidores do último post publicado)
 
-##### Saídas
+##### Saída
 * Arquivo .txt contendo username de curtidores únicos
 * Arquivo .txt contendo username de curtidores redundante
 
