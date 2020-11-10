@@ -8,7 +8,7 @@
 
 ##### Saída
 * Arquivo .txt contendo username de curtidores únicos
-* Arquivo .txt contendo username de curtidores redundante
+* Arquivo .txt contendo username de curtidores redundantes
 
 #### Instalação
 ##### 1° Passo - Instalação de módulos:
